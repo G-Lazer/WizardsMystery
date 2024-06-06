@@ -1,4 +1,4 @@
 # Wizard's Mystery
 
-**Goal**
+**Goal**  
 In Wizard's Mystery, you are a wizard who stumbles upon a mysterious dungeon. (surprised?)
